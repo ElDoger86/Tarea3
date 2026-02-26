@@ -64,7 +64,7 @@ class MainApp extends StatelessWidget {
             ProfileCard(
               name: 'David',
               email: 'david@XDmoment.com',
-              imageUrl: 'https://via.placeholder.com/150',
+              imageUrl: 'https://i.redd.it/nhx3hfe4zlh61.png',
             ),
 
             SizedBox(height: 34),
